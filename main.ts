@@ -4,7 +4,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const FORTUNE =
-  "You will inherit great wealth: 10,000 lines of legacy code, all of it yours now.";
+  "You will be asked to explain your reasoning. You have already forgotten it.";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
